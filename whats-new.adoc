@@ -1,0 +1,73 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, gfc, global file cache' 
+summary: 瞭解Global File Cache的新功能。 
+---
+= Global File Cache的新功能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+瞭解Global File Cache的新功能。
+
+
+
+== 2021年12月17日（1.2.0版）
+
+
+
+=== 已將Openssl模組升級至1.1.1版。
+
+這是最新版本、而且更安全。此模組用於GFC Edge與GFC Core之間的安全通訊。
+
+
+
+=== 記錄基礎架構已經增強。
+
+
+
+== 2021年6月9日（1.1.0版）
+
+
+
+=== 已新增「Edge同步」功能。
+
+此功能可讓遠端辦公室的多個邊緣保持同步、而且資料永遠會快取/暖化。當某個檔案在某個Edge上被清除/擷取時、參與Edge Sync的所有Edge上的相同檔案都會更新並快取。請參閱第8.4節 https://repo.cloudsync.netapp.com/gfc/Netapp%20GFC%20User%20Guide%201.1.0.pdf["NetApp 全球檔案快取使用者指南"^] 以取得詳細資料。
+
+
+
+=== 已將Openssl模組升級至1.1.1版。
+
+這是最新版本、而且更安全。此模組用於GFC Edge與GFC Core之間的安全通訊。
+
+
+
+=== 更新授權登錄頁面。
+
+GFC授權登錄頁面現在會顯示透過NetApp訂閱啟動的授權數量。
+
+
+
+== 2021年3月21日（版本1.0.3）
+
+
+
+=== 軟體安裝程式會更新、自動將GFC程序排除在Windows Defender之外。
+
+Global File Cache軟體安裝程式現在可將所有GFC程序排除在Windows Defender軟體隨需掃描之外。
+
+
+
+=== 新的「原則組態」索引標籤已新增至「組態主控台」。
+
+此組態索引標籤可讓您從GFC核心新增預先填入的工作。
+
+
+
+=== 強化軟體、減少記憶體使用量、同時提升效能與穩定性。

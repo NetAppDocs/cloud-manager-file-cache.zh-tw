@@ -1,0 +1,16 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+lead: Enable real-time global file sharing for your distributed workforce by using NetApp’s intelligent Global File Cache. 
+summary: 使用NetApp的智慧型全域檔案快取、為分散式工作團隊提供即時的全域檔案共用功能。 
+---
+= 全域檔案快取文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
