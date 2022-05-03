@@ -80,4 +80,6 @@ homepage:
     links:
     - title: Cloud Central使用案例
       url: https://cloud.netapp.com/global-file-cache
-product-family: {}
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
