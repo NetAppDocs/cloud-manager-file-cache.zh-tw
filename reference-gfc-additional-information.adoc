@@ -21,7 +21,7 @@ summary: 請使用下列連結、深入瞭解 Global File Cache 及其他 NetApp
 ** 請參閱常見問題集與解答清單 link:https://cloud.netapp.com/global-file-cache-faq["請按這裡"^]
 
 
-* https://repo.cloudsync.netapp.com/gfc/Netapp%20GFC%20User%20Guide%201.1.0.pdf["NetApp 全球檔案快取使用者指南"^]
+* https://repo.cloudsync.netapp.com/gfc/Global%20File%20Cache%201.3.0%20User%20Guide.pdf["NetApp 全球檔案快取使用者指南"^]
 * NetApp 產品文件
 +
 ** 請參閱 NetApp 雲端產品的其他文件 https://docs.netapp.com/us-en/cloud/["請按這裡"^]

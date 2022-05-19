@@ -130,4 +130,4 @@ NetApp建議您使用預設安裝位置。
 . 安裝完成後、請在出現提示時重新啟動伺服器。
 
 
-如需 Global File Cache Edge 進階組態的詳細資訊、請參閱 https://repo.cloudsync.netapp.com/gfc/Netapp%20GFC%20User%20Guide%201.1.0.pdf["NetApp 全球檔案快取使用者指南"^]。
+如需 Global File Cache Edge 進階組態的詳細資訊、請參閱 https://repo.cloudsync.netapp.com/gfc/Global%20File%20Cache%201.3.0%20User%20Guide.pdf["NetApp 全球檔案快取使用者指南"^]。
