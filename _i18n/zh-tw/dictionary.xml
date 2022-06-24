@@ -585,11 +585,17 @@
 <block ref="8e4798a9d84286ce2af64cff0824baca" category="inline-link-rx"></block></block>
   <block id="40e4043ab4e9038318e0841ef06244c0" category="paragraph"><block ref="a53645675256480c99fed4a542cb3aca" category="inline-link-rx"></block>
 <block ref="4c2b578017747f1ec201cbd7ab6ca56c" category="inline-link-rx"></block></block>
-  <block id="c1f077f3784bbcdc13bd9524bf4918b7" category="paragraph"><block ref="c1f077f3784bbcdc13bd9524bf4918b7" category="inline-link-rx"></block></block>
   <block id="5621e0035a66f3c4e8f0c7d5fff8a27f" category="paragraph"><block ref="5621e0035a66f3c4e8f0c7d5fff8a27f" category="inline-link-rx"></block></block>
   <block id="e2ed07bb6933c98e532659727830bc52" category="inline-link-macro">請遵循下列步驟</block>
   <block id="4249aa75e9ea96b2d0d6b440b4f4b8f4" category="paragraph"><block ref="099296b5b160f80a9ee09ffb08be17ae" category="inline-link-macro-rx"></block> 升級您的Global File Cache Edge軟體。</block>
   <block id="db8e575f29e7264d9dbb628ab57766be" category="paragraph">如需詳細資訊、請參閱<block ref="e0fe107ca8a95a3de0afb55f5223c6ad" category="inline-link-rx"></block>。</block>
   <block id="d9e1cd17d9a7ca15a50e2aaeed2f47c9" category="paragraph">全域檔案快取不建議在任何啟用全域檔案快取的執行個體（核心或邊緣）上安裝或應用監控或防毒解決方案。如果是依選擇或原則安裝解決方案、則必須套用下列最佳實務做法和建議。如需一般防毒套件、請參閱中的附錄 A<block ref="e0fe107ca8a95a3de0afb55f5223c6ad" category="inline-link-rx"></block>。</block>
   <block id="f3abc78aa44d210b1f7b92cda50a64cb" category="paragraph">我們的準則建議每個全域檔案快取核心執行個體最多可有 10 個 Edge 執行個體、每個全域檔案快取核心執行個體最多可有 20 個邊緣。這在相當程度上取決於最常見工作負載的類型和平均檔案大小。在某些情況下、由於工作負載較為常見、您可以在每個核心新增更多Edge執行個體、但在這些情況下、您應該聯絡客戶代表、以判斷如何根據檔案集的類型和大小、正確調整Edge和Core執行個體的大小。</block>
+  <block id="22c3479f6dd133b2d2d79cc8b481240f" category="section-title">2022年6月23日（版本1.3.1）</block>
+  <block id="a720f7f5208abaac19d4db46d3bc0a7b" category="inline-link">修正問題</block>
+  <block id="2ffbf992fae9becab7e787491b2cdf41" category="paragraph">1.3.1版的全域檔案快取Edge軟體可從取得<block ref="2c81bb98c990e9738e500d000082628f" category="inline-link-rx"></block>。此版本可修正中所述的問題<block ref="11a0d6c8cafa0c0950060c707371e2a0" category="inline-link-rx"></block>。</block>
+  <block id="897b3098cd8a06c0ff8041457079a260" category="paragraph"><block ref="897b3098cd8a06c0ff8041457079a260" category="inline-link-rx"></block></block>
+  <block id="f12e4f9c6c0ea52ff0c85be8308ff143" category="list-text">升級時、Microsoft可轉散發套件的正確版本未正確安裝、因此Tum無法啟動。已修正GFC安裝程式、以安裝可重新分配的正確版本。</block>
+  <block id="e4e361b13d8ce3c010df78be535b3aeb" category="list-text">現在、GFC授權管理員服務（LMS）會更新組態資訊、而非覆寫資訊。</block>
+  <block id="08b34be098f59c81e94653cf34a7c9ae" category="list-text">在升級過程中、組態UI現在會連結至正確的System.net.http dll。</block>
 </blocks>
